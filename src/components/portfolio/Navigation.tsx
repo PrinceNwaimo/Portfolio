@@ -55,7 +55,7 @@ export default function Navigation() {
       <div className="container mx-auto px-4 xl:px-8">
         <div className="flex items-center justify-between h-16 xl:h-20">
           <div className="text-xl xl:text-2xl font-bold text-primary">
-            Nwaimo Prince
+            Prince Nwaimo
           </div>
 
           {/* Desktop Navigation */}

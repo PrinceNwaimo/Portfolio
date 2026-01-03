@@ -16,7 +16,7 @@ export default function HeroSection() {
           <div className="flex-1 text-center xl:text-left space-y-6">
             <div className="space-y-2">
               <h1 className="text-4xl xl:text-6xl font-bold text-foreground">
-                Nwaimo Prince
+                Prince Nwaimo
               </h1>
               <h2 className="text-2xl xl:text-3xl font-semibold text-primary">
                 DevOps || Cloud || Software Engineer
@@ -55,7 +55,7 @@ export default function HeroSection() {
               <div className="absolute inset-0 bg-primary/20 rounded-full blur-3xl"></div>
               <img
                 src="https://miaoda-site-img.s3cdn.medo.dev/images/fada7ccd-13d4-41b0-9528-f9d12f31d2d9.jpg"
-                alt="Nwaimo Prince - DevOps Engineer"
+                alt="Prince Nwaimo - DevOps Engineer"
                 className="relative rounded-full w-full h-full object-cover border-4 border-primary/20 shadow-xl"
               />
             </div>

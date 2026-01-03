@@ -49,13 +49,13 @@ export default function ContactSection() {
     {
       icon: Mail,
       label: 'Email',
-      value: 'nwaimo.prince@example.com',
-      link: 'mailto:nwaimo.prince@example.com',
+      value: 'nwaimoprince12@gmail.com',
+      link: 'mailto:nwaimoprince12@gmail.com',
     },
     {
       icon: MapPin,
       label: 'Location',
-      value: 'Lagos, Lagos State, Nigeria',
+      value: 'Coventry,United Kingdom',
     },
     {
       icon: Linkedin,

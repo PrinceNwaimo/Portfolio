@@ -49,7 +49,6 @@ export default function SkillsSection() {
         'Platform upgrade coordination',
         'Cross-team coordination & communication',
         'Requirements gathering & prioritisation',
-        'Metrics, Logs, Events, Tracing fundamentals',
         'Documentation & stakeholder communication',
         'Backlog ownership & Agile delivery',
         'Team leadership',

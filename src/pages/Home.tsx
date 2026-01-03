@@ -12,8 +12,8 @@ export default function Home() {
   return (
     <>
       <PageMeta
-        title="Nwaimo Prince - DevOps & Cloud Engineer Portfolio"
-        description="Professional portfolio of Nwaimo Prince, a DevOps and Cloud Engineer specializing in AWS & Azure infrastructures, CI/CD automation, and containerized microservices."
+        title="Prince Nwaimo - DevOps & Cloud Engineer Portfolio"
+        description="Professional portfolio of Prince Nwaimo, a DevOps and Cloud Engineer specializing in AWS & Azure infrastructures, CI/CD automation, and containerized microservices."
       />
       <div className="min-h-screen w-full">
         <Navigation />

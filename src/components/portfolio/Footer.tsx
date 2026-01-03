@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="flex flex-col xl:flex-row items-center justify-between gap-4">
           <div className="text-center xl:text-left">
             <p className="text-sm text-muted-foreground">
-              © {currentYear} Nwaimo Prince - DevOps & Cloud Engineer. All rights reserved.
+              © {currentYear} Prince Nwaimo - DevOps & Cloud Engineer. All rights reserved.
             </p>
           </div>
 

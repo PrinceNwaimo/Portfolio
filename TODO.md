@@ -1,4 +1,4 @@
-# Task: Create Professional Portfolio Website for Nwaimo Prince - DevOps & Cloud Engineer
+# Task: Create Professional Portfolio Website for Prince Nwaimo - DevOps & Cloud Engineer
 
 ## Plan
 - [x] Step 1: Read key configuration files (Completed)

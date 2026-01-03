@@ -2,9 +2,9 @@
 
 ## 1. Application Overview
 \n### 1.1 Application Name
-Nwaimo Prince - DevOps & Cloud Engineer Portfolio\n
+Prince Nwaimo - DevOps & Cloud Engineer Portfolio\n
 ### 1.2 Application Description
-A professional portfolio website showcasing the career achievements, technical skills, and projects of Nwaimo Prince, a DevOps and Cloud Engineer with expertise in AWS infrastructure, CI/CD automation, and containerized microservices.
+A professional portfolio website showcasing the career achievements, technical skills, and projects of Prince Nwaimo, a DevOps and Cloud Engineer with expertise in AWS infrastructure, CI/CD automation, and containerized microservices.
 
 ## 2. Core Features
 \n### 2.1 Hero Section
