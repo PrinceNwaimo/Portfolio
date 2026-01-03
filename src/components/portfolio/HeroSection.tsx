@@ -34,27 +34,35 @@ export default function HeroSection() {
                 Get in Touch
               </Button>
               <Button variant="outline" size="lg" className="gap-2" asChild>
-                <a href="#" download>
+                <a href="Prince_Nwaimo_CV.pdf" download target="_blank"  rel="noopener noreferrer">
                   <Download className="h-5 w-5" />
-                  Download Resume
+                  Download CV
                 </a>
               </Button>
             </div>
 
-            <div className="flex gap-4 justify-center xl:justify-start pt-4">
-              <Button variant="ghost" size="icon" asChild>
-                <a href="https://www.linkedin.com/in/nwaimo-prince" target="_blank" rel="noopener noreferrer">
-                  <Linkedin className="h-5 w-5" />
-                </a>
-              </Button>
+          <div className="flex gap-4 justify-center xl:justify-start pt-4">
+  <Button
+    asChild
+    className="bg-[#0A66C2] hover:bg-[#004182] text-white"
+    size="icon"
+  >
+    <a
+      href="https://www.linkedin.com/in/nwaimo-prince"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="LinkedIn"
+    >
+      <Linkedin className="h-5 w-5" />
+    </a>
+  </Button>
+</div>
             </div>
-          </div>
-
           <div className="flex-1 flex justify-center xl:justify-end">
             <div className="relative w-64 h-64 xl:w-96 xl:h-96">
               <div className="absolute inset-0 bg-primary/20 rounded-full blur-3xl"></div>
               <img
-                src="https://miaoda-site-img.s3cdn.medo.dev/images/fada7ccd-13d4-41b0-9528-f9d12f31d2d9.jpg"
+                src="Prince.jpg" 
                 alt="Prince Nwaimo - DevOps Engineer"
                 className="relative rounded-full w-full h-full object-cover border-4 border-primary/20 shadow-xl"
               />

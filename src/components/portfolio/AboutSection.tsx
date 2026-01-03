@@ -6,7 +6,7 @@ export default function AboutSection() {
     {
       icon: Award,
       title: 'Expertise',
-      description: 'Specialized in AWS infrastructure, CI/CD automation, and containerized microservices',
+      description: 'Specialized in AWS and Azure infrastructures, CI/CD automation, and containerized microservices',
     },
     {
       icon: Target,
@@ -32,7 +32,7 @@ export default function AboutSection() {
           <div className="text-center xl:text-left space-y-4">
             <p className="text-base xl:text-lg text-foreground leading-relaxed">
               I am a passionate DevOps and Cloud Engineer with extensive experience in designing and implementing 
-              highly scalable AWS infrastructure. My expertise spans across infrastructure as code, CI/CD automation, 
+              highly scalable AWS and Azure infrastructure. My expertise spans across infrastructure as code, CI/CD automation, 
               containerization, and cloud security.
             </p>
             <p className="text-base xl:text-lg text-foreground leading-relaxed">
