@@ -62,9 +62,9 @@ export default function HeroSection() {
             <div className="relative w-64 h-64 xl:w-96 xl:h-96">
               <div className="absolute inset-0 bg-primary/20 rounded-full blur-3xl"></div>
               <img
-                src="Prince.jpg" 
+                src="Prince.PNG" 
                 alt="Prince Nwaimo - DevOps Engineer"
-                className="relative rounded-full w-full h-full object-cover border-4 border-primary/20 shadow-xl"
+                className="relative rounded-full w-full h-full object-cover object-[center_25%] border-4 border-primary/20 shadow-xl"
               />
             </div>
           </div>

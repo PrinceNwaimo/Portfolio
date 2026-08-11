@@ -4,28 +4,28 @@ import { Badge } from '@/components/ui/badge';
 export default function SkillsSection() {
   const skillCategories = [
     {
-      title: 'Cloud Platforms',
-      skills: ['AWS (EC2, S3, IAM, Lambda, CloudWatch)', 'Azure'],
+      title: 'Cloud Platforms & Infrastructures',
+      skills: ['Azure', 'Amazon Web Services (AWS)', 'EC2', 'S3', 'IAM', 'VPC', 'AWS Secrets Manager', 'AWS CloudWatch', 'Cloud Infrastructure', 'Cloud Governance'],
     },
     {
-      title: 'Infrastructure as Code & Automation',
-      skills: ['Terraform', 'Ansible', 'Helm'],
+      title: 'DevOps & Automation',
+      skills: ['Terraform', 'Ansible', 'GitHub Actions', 'Infrastructure as Code (IaC)', 'CI/CD Pipelines', 'Git', 'Git Ops Workflows', 'Infrastructure Automation', 'Deployment Automation'],
     },
     {
-      title: 'CI/CD & DevOps',
-      skills: ['Jenkins', 'GitHub Actions', 'Docker', 'Kubernetes'],
+      title: 'Containers & Orchestration',
+      skills: ['Kubernetes', 'Docker', 'Docker Compose', 'Container Management', 'Kubernetes Workloads', 'Microservices Architecture'],
     },
     {
       title: 'Scripting',
       skills: ['Bash', 'Python', 'YAML', 'PowerShell'],
     },
     {
-      title: 'Security',
-      skills: ['Keycloak (OIDC, OAuth2)', 'SAST tools (SonarQube, CodeQL)'],
+      title: 'Security & Platform Operations',
+      skills: ['Keycloak (OIDC, OAuth2)', 'SAST tools (SonarQube, CodeQL)', 'Identity & Access Management (IAM)', 'Least Privilege Access Control', 'Cloud Security', 'Production Support', 'Change Management', 'Configuration Management', 'Linux Administration', 'Operational Troubleshooting'],
     },
     {
-      title: 'Monitoring & Observability',
-      skills: ['Prometheus', 'Grafana', 'Fluentd', 'ELK Stack'],
+      title: 'Monitoring, Logging & Reliability',
+      skills: ['Prometheus', 'Grafana', 'Fluentd', 'ELK Stack', 'AWS CloudWatch', 'Application Monitoring', 'Infrastructure Monitoring', 'Alerting', 'Observability', 'Performance Monitoring', 'Incident Response', 'Root Cause Analysis (RCA)'],
     },
     {
       title: 'Databases',

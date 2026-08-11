@@ -1,3 +1,4 @@
+import * as React from 'react';
 import Navigation from '@/components/portfolio/Navigation';
 import HeroSection from '@/components/portfolio/HeroSection';
 import AboutSection from '@/components/portfolio/AboutSection';
@@ -12,8 +13,8 @@ export default function Home() {
   return (
     <>
       <PageMeta
-        title="Prince Nwaimo - DevOps & Cloud Engineer Portfolio"
-        description="Professional portfolio of Prince Nwaimo, a DevOps and Cloud Engineer specializing in AWS & Azure infrastructures, CI/CD automation, and containerized microservices."
+        title="Prince Nwaimo - DevOps & Cloud Platform Operations Engineer Portfolio"
+        description="Professional portfolio of Prince Nwaimo, a DevOps and Cloud Platform Operations Engineer specializing in AWS & Azure infrastructures, CI/CD automation, and containerized microservices."
       />
       <div className="min-h-screen w-full">
         <Navigation />

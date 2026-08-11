@@ -31,13 +31,13 @@ export default function AboutSection() {
         <div className="max-w-4xl mx-auto space-y-8">
           <div className="text-center xl:text-left space-y-4">
             <p className="text-base xl:text-lg text-foreground leading-relaxed">
-              I am a passionate DevOps and Cloud Engineer with extensive experience in designing and implementing 
-              highly scalable AWS and Azure infrastructure. My expertise spans across infrastructure as code, CI/CD automation, 
-              containerization, and cloud security.
+              DevOps & Cloud Engineer with 2+ years' experience designing, automating, and supporting secure cloud infrastructure across UK SaaS and technology environments. 
+              Skilled in AWS, Terraform, Kubernetes, CI/CD automation, IAM security controls, and cloud observability solutions using Prometheus and Grafana to enhance platform reliability and operational performance.
+            
             </p>
             <p className="text-base xl:text-lg text-foreground leading-relaxed">
-              With a strong foundation in both development and operations, I bridge the gap between software 
-              development and IT operations, enabling teams to deliver high-quality products faster and more reliably.
+                Experienced in incident response, root cause analysis, production change management, and cloud governance aligned with UK GDPR, NCSC security principles, and enterprise engineering standards.
+                I am passionate about leveraging cloud technologies to drive business success, improve operational efficiency, and deliver secure, scalable solutions.
             </p>
           </div>
 

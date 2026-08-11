@@ -5,6 +5,47 @@ import { ExternalLink } from 'lucide-react';
 export default function ProjectsSection() {
   const projects = [
     {
+      title: 'AWS Infrastructure Automation Project',
+      description: 'Engineered reusable Infrastructure as Code (IaC) solutions using Terraform and CloudFormation to automate AWS resource provisioning, reducing manual configuration effort by 35% and improving deployment consistency across repeatable environment builds.',
+      image: 'https://miaoda-site-img.s3cdn.medo.dev/images/e34d8d61-18fd-4f7a-8f80-0907be3ec305.jpg',
+      technologies: ['AWS, Terraform, CloudFormation, Docker, Kubernetes, CloudWatch'],
+      highlights: [
+        'Automated AWS resource provisioning using Terraform and CloudFormation',
+      ],
+    },
+    {
+      title: 'Infrastructure as Code Demo with Terraform & Local Stack',
+      description: 'Designed modular Terraform configurations to provision AWSlike environments including VPC networking, S3 storage, and NGINX workloads, reducing environment setup time by 40% through reusable infrastructure components and automated provisioning workflows.',
+      image: 'https://miaoda-site-img.s3cdn.medo.dev/images/e34d8d61-18fd-4f7a-8f80-0907be3ec305.jpg',
+      technologies: ['Terraform, LocalStack, NGINX, Docker, AWS Services, VPC, S3'],
+      highlights: [
+        'Provisioned AWSlike environments using Terraform and LocalStack',
+        'Implemented modular Terraform configurations for reusable infrastructure components',
+        'Automated environment setup workflows, reducing manual effort and improving consistency',
+      ],
+    },
+
+    {
+      title: 'Security Monitored Microservice Stack',
+      description: 'Built a containerised FastAPI microservice platform with integrated runtime security monitoring using Falco, Prometheus, and Grafana, reducing simulated security event detection time by 45% through automated alerting and observability workflows.',
+      image: 'https://miaoda-site-img.s3cdn.medo.dev/images/e34d8d61-18fd-4f7a-8f80-0907be3ec305.jpg',
+      technologies: ['Docker', 'Kubernetes', 'Prometheus', 'Grafana', 'ELK Stack'],
+      highlights: [
+        'Deployed security monitoring solutions across microservices',
+        'Implemented real-time threat detection and alerting',
+        'Ensured compliance with security standards and regulations',
+      ],
+    },
+    {
+      title: 'CI/CD Deployment Pipeline Project',
+      description: 'Developed automated CI/CD pipelines using GitHub Actions, integrating code validation, automated testing, and deployment workflows to reduce manual deployment activities by 70% and improve release efficiency.',
+      image: 'https://miaoda-site-img.s3cdn.medo.dev/images/e34d8d61-18fd-4f7a-8f80-0907be3ec305.jpg',
+      technologies: ['GitHub Actions', 'Docker', 'Kubernetes', 'Terraform', 'Ansible'],
+      highlights: [
+        'Implemented automated CI/CD pipelines for application deployment',
+      ],
+    },
+    {
       title: 'Enum Project - Cloud Infrastructure',
       description: 'Led the Cloud Team to provide comprehensive infrastructure for the Development team, implementing CI/CD automation and secure access management.',
       image: 'https://miaoda-site-img.s3cdn.medo.dev/images/0a1568f9-0661-4b58-a1d8-e0ad25eca394.jpg',
@@ -29,7 +70,7 @@ export default function ProjectsSection() {
     {
       title: 'E-wallet Application',
       description: 'Built and maintained cloud infrastructure for a secure e-wallet application with focus on security, scalability, and compliance.',
-      image: 'https://miaoda-site-img.s3cdn.medo.dev/images/e34d8d61-18fd-4f7a-8f80-0907be3ec305.jpg',
+      image: 'https://miaoda-site-img.s3cdn.medo.dev/images/0a1568f9-0661-4b58-a1d8-e0ad25eca394.jpg',
       technologies: ['AWS', 'PostgreSQL', 'Docker', 'Ansible', 'SonarQube'],
       highlights: [
         'Implemented security best practices and SAST integration',
