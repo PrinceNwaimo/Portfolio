@@ -31,7 +31,7 @@ export default function AboutSection() {
         <div className="max-w-4xl mx-auto space-y-8">
           <div className="text-center xl:text-left space-y-4">
             <p className="text-base xl:text-lg text-foreground leading-relaxed">
-              DevOps & Cloud Engineer with 2+ years' experience designing, automating, and supporting secure cloud infrastructure across UK SaaS and technology environments. 
+              DevOps & Cloud Engineer with 3+ years' experience designing, automating, and supporting secure cloud infrastructure across UK SaaS and technology environments. 
               Skilled in AWS, Terraform, Kubernetes, CI/CD automation, IAM security controls, and cloud observability solutions using Prometheus and Grafana to enhance platform reliability and operational performance.
             
             </p>
